@@ -1,0 +1,856 @@
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Back_Legs_low.uasset" 0
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Back_Legs_low.uasset" 1
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Player_Controller.uasset" 2
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bone_GameMode.uasset" 3
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 4
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Back_Legs_Normal.uasset" 5
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Bovine_Back_Legs_Mat.uasset" 6
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Front_Legs_Normal.uasset" 7
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Front_Legs_Mat.uasset" 8
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Head_Normal.uasset" 9
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Head_Mat.uasset" 10
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Ribs_Normal.uasset" 11
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Ribs_Mat.uasset" 12
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Spine_Normal.uasset" 13
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Spine_Mat.uasset" 14
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_BaseColor.uasset" 15
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_Normal.uasset" 16
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Lungs_LP_defaultMat_OcclusionRoughnessMetallic.uasset" 17
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Lungs_Mat.uasset" 18
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Bovine_Lungs.uasset" 19
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Heart_LP_defaultMat_BaseColor.uasset" 20
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Heart_LP_defaultMat_Normal.uasset" 21
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Heart_LP_defaultMat_OcclusionRoughnessMetallic.uasset" 22
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Heart_Mat.uasset" 23
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Heart.uasset" 24
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Kidney_BaseColor.uasset" 25
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Kidney_Normal.uasset" 26
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Kidney_OcclusionRoughnessMetallic.uasset" 27
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Kidney_MAt.uasset" 28
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Kidney.uasset" 29
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_BaseColor.uasset" 30
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_Normal.uasset" 31
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Stomach_low_blinn1SG_OcclusionRoughnessMetallic.uasset" 32
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Stomach_Mat.uasset" 33
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Organs/Stomach.uasset" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 35
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 36
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 37
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 38
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Body_of_Ilium.uasset" 39
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Calcaneus.uasset" 40
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Distal_Phalanges.uasset" 41
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Distal_Sesamoids.uasset" 42
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Femur.uasset" 43
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Fused_3rd-4th_Metatarsals.uasset" 44
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Middle_Phalanges.uasset" 45
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Patella.uasset" 46
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Proximal_Phalanges.uasset" 47
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Proximal_Sesamoids.uasset" 48
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Talus.uasset" 49
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Tarsals.uasset" 50
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Tibia.uasset" 51
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Back_Legs/Unknown_Tibia.uasset" 52
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/5th_Metacarpals.uasset" 53
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Carpals.uasset" 54
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Fused_3rd-4th_Metacarpals.uasset" 55
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Humerus.uasset" 56
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Phalanges.uasset" 57
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Radius.uasset" 58
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Scalpula.uasset" 59
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Sesamoids.uasset" 60
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Front_Legs/Ulna.uasset" 61
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/Atlas_C1_.uasset" 62
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C2.uasset" 63
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C3.uasset" 64
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C4.uasset" 65
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C5.uasset" 66
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C6.uasset" 67
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/C7.uasset" 68
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/Mandible.uasset" 69
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/Mandible_Bits.uasset" 70
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Head/Skull.uasset" 71
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/Caudal_Vertebrae.uasset" 72
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L1.uasset" 73
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L2.uasset" 74
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L3.uasset" 75
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L4.uasset" 76
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L5.uasset" 77
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/L6.uasset" 78
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/Ribs.uasset" 79
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T1.uasset" 80
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T10.uasset" 81
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T11.uasset" 82
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T12.uasset" 83
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T13.uasset" 84
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T2.uasset" 85
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T3.uasset" 86
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T4.uasset" 87
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T5.uasset" 88
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T6.uasset" 89
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T7.uasset" 90
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T8.uasset" 91
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Models/Standing/Spine/T9.uasset" 92
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine_BP.uasset" 93
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 94
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 96
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Back_Legs__Mixed_AO.uasset" 97
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Back_Legs_Normal.uasset" 98
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Back_Legs.uasset" 99
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Mixed_AO.uasset" 100
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Normal_DirectX.uasset" 101
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs.uasset" 102
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Head_Mixed_AO.uasset" 103
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Head_Normal_DirectX.uasset" 104
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Head.uasset" 105
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Spine_Mixed_AO.uasset" 106
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Spine_Normal_DirectX.uasset" 107
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Spine.uasset" 108
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Transparent_Blue.uasset" 109
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esoph_Low_defaultMat_AO.uasset" 110
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esoph_Low_defaultMat_roughness.uasset" 111
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esoph_Nm.uasset" 112
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esoph_txt.uasset" 113
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esoph_Mat.uasset" 114
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Esophagus.uasset" 115
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_BaseColor.uasset" 116
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_Normal.uasset" 117
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/bladder_retope_low_defaultMat_OcclusionRoughnessMetallic.uasset" 118
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/bladder_Mat.uasset" 119
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Bladder.uasset" 120
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_BaseColor.uasset" 121
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_Normal.uasset" 122
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Duodenum/duodenum_Low_defaultMat_OcclusionRoughnessMetallic.uasset" 123
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Duodenum/duodenum_Mat.uasset" 124
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Duodenum/Duodenum.uasset" 125
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_AO.uasset" 126
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_baseColor.uasset" 127
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Kidney/kidney_low_defaultMat_NormalMap.uasset" 128
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Kidney/kidney_Mat.uasset" 129
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Kidney/Kidney.uasset" 130
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_Base.uasset" 131
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_Low_defaultMat_AO.uasset" 132
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_Low_defaultMat_roughness.uasset" 133
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_NM.uasset" 134
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_Txt.uasset" 135
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen_Mat.uasset" 136
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Spleen/Spleen.uasset" 137
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_AO.uasset" 138
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_baseColor.uasset" 139
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach_Low_defaultMat_roughness.uasset" 140
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach_NM.uasset" 141
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach_Mat.uasset" 142
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/GI_Track/Stomach/Stomach.uasset" 143
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Heart_Low_NewHeart_AO.uasset" 144
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Heart_Low_NewHeart_roughness.uasset" 145
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Heart_new_nm.uasset" 146
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Heart_New_txt.uasset" 147
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Heart_Mat.uasset" 148
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/heart.uasset" 149
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_BaseColor.uasset" 150
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_Normal.uasset" 151
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Intestines_LP_NEW_Intestines_LP_NEW1_defaultMat1_OcclusionRoughnessMetallic.uasset" 152
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Intestines_Mat.uasset" 153
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Intestines.uasset" 154
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Liver/Liver_lambert1_BaseColor.uasset" 155
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Liver/Liver_lambert1_Normal.uasset" 156
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Liver/Liver_lambert1_OcclusionRoughnessMetallic.uasset" 157
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Liver/Liver_Mat.uasset" 158
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Liver/Liver.uasset" 159
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Lung_NM.uasset" 160
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Lung_txt_three.uasset" 161
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/LungSP_Low_Lungs_AO.uasset" 162
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/LungSP_Low_Lungs_roughness.uasset" 163
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Lungs_Mat.uasset" 164
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/lungs.uasset" 165
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Skin_NRM.uasset" 166
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Skin_TXT.uasset" 167
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Skin_Mat.uasset" 168
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/skin.uasset" 169
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/spinalcord_low_defaultMat_roughness.uasset" 170
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/SpinalCord_Nm.uasset" 171
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/SpinalCord_txt.uasset" 172
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/SpinalCord_Mat.uasset" 173
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Spinal_Cord.uasset" 174
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Body_of_Radius.uasset" 175
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Body_of_Ulna.uasset" 176
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/D_Base.uasset" 177
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/E_Base.uasset" 178
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Head_of_Radius.uasset" 179
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Olecranon.uasset" 180
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Olecranon_Tuber.uasset" 181
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Styloid_Process_of_Radius.uasset" 182
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Updated/Styloid_Process_of_Ulna.uasset" 183
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/A_3.uasset" 184
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C1_Atlas.uasset" 185
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C2_Axis.uasset" 186
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C3.uasset" 187
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C4.uasset" 188
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C5.uasset" 189
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C6.uasset" 190
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/C7.uasset" 191
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/External_Acoustic_Meatus.uasset" 192
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Frontal_Bone.uasset" 193
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Infraorbital_Foramen.uasset" 194
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Maxilla.uasset" 195
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Mental_Foramina.uasset" 196
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Occipital_Bone.uasset" 197
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/parietal_Bone.uasset" 198
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Retroarticular_Process.uasset" 199
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Skull.uasset" 200
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/Zygomatic_Arch.uasset" 201
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Anticlinal_Vertebra.uasset" 202
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Caudal_Vertebrae.uasset" 203
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Costochondral_Junction_Left.uasset" 204
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Costochondral_Junction_Right.uasset" 205
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Floating_Rib_Left.uasset" 206
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Floating_Rib_Right.uasset" 207
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Head_of_Rib_Left.uasset" 208
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Head_of_Rib_Right.uasset" 209
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Intercostal_Space.uasset" 210
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Lumbar_Vertebrae.uasset" 211
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Ribs_L.uasset" 212
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Ribs_R.uasset" 213
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Sacral_Vertebrae.uasset" 214
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Thoracic_Vertebrae.uasset" 215
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Tubercle_of_Rib_Left.uasset" 216
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Tubercle_of_Rib_Right.uasset" 217
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Acromion_Left.uasset" 218
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Acromion_Right.uasset" 219
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/C_Base_L.uasset" 220
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/C_Base_R.uasset" 221
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Greater_Tubercle.uasset" 222
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Head_of_Humerus_Left.uasset" 223
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Head_of_Humerus_Right.uasset" 224
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Humeral_Shaft.uasset" 225
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Infraspinous_Fossa_Left.uasset" 226
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Infraspinous_Fossa_Right.uasset" 227
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraglenoid_Tubercle_Left.uasset" 228
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraglenoid_Tubercle_Right.uasset" 229
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraspinous_Fossa_Left.uasset" 230
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraspinous_Fossa_Right.uasset" 231
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Tricipital_Line_Left.uasset" 232
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Tricipital_Line_Right.uasset" 233
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_10.uasset" 234
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_11.uasset" 235
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_12.uasset" 236
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_16.uasset" 237
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_17.uasset" 238
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_18.uasset" 239
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_19.uasset" 240
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_20.uasset" 241
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/E_21.uasset" 242
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Acetabulum.uasset" 243
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_Base.uasset" 244
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Femoral_Condyle_Left.uasset" 245
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Femoral_Condyle_Right.uasset" 246
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Greater_Trochanter_Left.uasset" 247
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Greater_Trochanter_Right.uasset" 248
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Head_of_Femur_Left.uasset" 249
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Head_of_Femur_Right.uasset" 250
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Shaft_Left.uasset" 251
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Shaft_Right.uasset" 252
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Wing_Left.uasset" 253
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Wing_Right.uasset" 254
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Ischiatic_Tuber.uasset" 255
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Obturator_Foramen.uasset" 256
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Patella__Left.uasset" 257
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Patella_Right.uasset" 258
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Shaft_of_Femur_Left.uasset" 259
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Shaft_of_Femur_Right.uasset" 260
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Fibular_Body.uasset" 261
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_Base.uasset" 262
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Head_of_Fibula.uasset" 263
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Lateral_Malleolus.uasset" 264
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Medial_Malleolus.uasset" 265
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Tibial_Crest.uasset" 266
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Tibial_Shaft.uasset" 267
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Tibial_Trochlea.uasset" 268
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/Tibial_Tuberosity.uasset" 269
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_10.uasset" 270
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_12.uasset" 271
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_13.uasset" 272
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_15.uasset" 273
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_16.uasset" 274
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_17.uasset" 275
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_2.uasset" 276
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_3.uasset" 277
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_4.uasset" 278
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_5.uasset" 279
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_7.uasset" 280
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_8.uasset" 281
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_9.uasset" 282
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_Base.uasset" 283
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/Metatarsus_1.uasset" 284
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/Metatarsus_2.uasset" 285
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/Metatarsus_4.uasset" 286
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Dog_BP.uasset" 287
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Scale_and_rotate.uasset" 288
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Scale_and_Rotate_Mat.uasset" 289
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 290
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Widget3DPassThrough.uasset" 291
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 292
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/DefaultTextMaterialOpaque1.uasset" 293
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/DefaultTextMaterialOpaque1_Inst.uasset" 294
+"../../../Engine/Content/BasicShapes/Plane.uasset" 295
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRI.uasset" 296
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIB.uasset" 297
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRII.uasset" 298
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIL.uasset" 299
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRILI.uasset" 300
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIZ.uasset" 301
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRI_Font.uasset" 302
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bone_Widget.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 304
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 305
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 306
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 307
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/OculusControllerMesh.uasset" 308
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 309
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 310
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 311
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/RotationHandleFull.uasset" 312
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/TranslateArrowHandle.uasset" 313
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 314
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 315
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 316
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 317
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 318
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 319
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/VivePreControllerMesh.uasset" 320
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Question_Type.uasset" 321
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Quiz_Structure.uasset" 322
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Quiz_Data_Table.uasset" 323
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controls.uasset" 324
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Vive_Controls2.uasset" 325
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Vive_Controls.uasset" 326
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Bovine/Hand_Menu_Bovine.uasset" 327
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_1.uasset" 328
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Muscles_Mat_Parent.uasset" 329
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles1.uasset" 330
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Dog_Skull_Quiz_Table.uasset" 331
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M1_Skull.uasset" 332
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_Mask_Master.uasset" 333
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_1.uasset" 334
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M11_Skull.uasset" 335
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_10.uasset" 336
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M13_Skull.uasset" 337
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_11.uasset" 338
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M14_Skull.uasset" 339
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_12.uasset" 340
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M16_Skull.uasset" 341
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_13.uasset" 342
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M17_Skull.uasset" 343
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_14.uasset" 344
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M2_Skull.uasset" 345
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_2.uasset" 346
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M3_Skull.uasset" 347
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_3.uasset" 348
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M4_Skull.uasset" 349
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_4.uasset" 350
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M6_Skull.uasset" 351
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_5.uasset" 352
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M7_Skull.uasset" 353
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_6.uasset" 354
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M8_Skull.uasset" 355
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_7.uasset" 356
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M9_Skull.uasset" 357
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_8.uasset" 358
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M10_Skull.uasset" 359
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/Dog_Skull_9.uasset" 360
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Head_Inst.uasset" 361
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Dog_Skull/Hand_Menu_Dog_Skull.uasset" 362
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Bovine_Icon.uasset" 363
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Bovine_Icon_Hovered.uasset" 364
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Canine_Icon.uasset" 365
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Canine_Icon_Hovered_Body.uasset" 366
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Canine_Icon_Hovered_Head.uasset" 367
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Power_Icon.uasset" 368
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Icons/Power_Icon_Hovered.uasset" 369
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Select.uasset" 370
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Select.uasset" 371
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Hand_Menu_Main.uasset" 372
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Dog_Skull/Hand_Menu_Dog_Skull_Quizzing.uasset" 373
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Dog/Hand_Menu_Dog.uasset" 374
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/images/HighresScreenshot00002.uasset" 375
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Main_Menu.uasset" 376
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Main_Menu_BP.uasset" 377
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Left_Trigger.uasset" 378
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Right_Trigger.uasset" 379
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Rotate.uasset" 380
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Scale.uasset" 381
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Rotate.uasset" 382
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Scale.uasset" 383
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Trigger.uasset" 384
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Tutorial_Menu.uasset" 385
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VRPawn.uasset" 386
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/1_Skull.uasset" 387
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/1_Skull_Mat.uasset" 388
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Dog_Skull_BP.uasset" 389
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog_Skull_BP.uasset" 390
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Front_Legs_low.uasset" 391
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Front_Legs_low.uasset" 392
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Head_low.uasset" 393
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Head_low.uasset" 394
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/NewLevelSequence.uasset" 395
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/NewLevelSequence.uasset" 396
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/NewMaterial.uasset" 397
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/NewMaterial.uasset" 398
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Spine_low.uasset" 399
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Spine_low.uasset" 400
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VR_WidgetActor.uasset" 401
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/White.uasset" 402
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/White.uasset" 403
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Audio/Dog_Tutorial_Audio.uasset" 404
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Back_Legs_OcclusionRoughnessMetallic.uasset" 405
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Front_Legs_OcclusionRoughnessMetallic.uasset" 406
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Head_OcclusionRoughnessMetallic.uasset" 407
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Ribs_OcclusionRoughnessMetallic.uasset" 408
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Bovine/Materials/Spine_OcclusionRoughnessMetallic.uasset" 409
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Bottom.uasset" 410
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/B_base.uasset" 411
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/DogRotator.uasset" 412
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Naming_Structure.uasset" 413
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Naming_Data_Table.uasset" 414
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Right_Side.uasset" 415
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Back_Legs_Trans.uasset" 416
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/10_Skull.uasset" 417
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/10_Skull_Mat.uasset" 418
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/11_Skull.uasset" 419
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/11_Skull_Mat.uasset" 420
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/12_Skull.uasset" 421
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/12_Skull_Mat.uasset" 422
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/13_Skull.uasset" 423
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/13_Skull_Mat.uasset" 424
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/14_Skull.uasset" 425
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/14_Skull_Mat.uasset" 426
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/15_Skull.uasset" 427
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/15_Skull_Mat.uasset" 428
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/16_Skull.uasset" 429
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/16_Skull_Mat.uasset" 430
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/17_Skull.uasset" 431
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/17_Skull_Mat.uasset" 432
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/2_Skull.uasset" 433
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/2_Skull_Mat.uasset" 434
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/3_Skull.uasset" 435
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/3_Skull_Mat.uasset" 436
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/4_Skull.uasset" 437
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/4_Skull_Mat.uasset" 438
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/6_Skull.uasset" 439
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/6_Skull_Mat.uasset" 440
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/7_Skull.uasset" 441
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/7_Skull_Mat.uasset" 442
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/8_Skull.uasset" 443
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/8_Skull_Mat.uasset" 444
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/9_Skull.uasset" 445
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/9_Skull_Mat.uasset" 446
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/1_Skull.uasset" 447
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M12_Skull.uasset" 448
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Dog_Skull_Labeling/Masks/M15_Skull.uasset" 449
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_legs_2.uasset" 450
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_10.uasset" 451
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles10.uasset" 452
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_11.uasset" 453
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles11.uasset" 454
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_12.uasset" 455
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles12.uasset" 456
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_13.uasset" 457
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles13.uasset" 458
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_legs_2.uasset" 459
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles2.uasset" 460
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_3.uasset" 461
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles3.uasset" 462
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_4.uasset" 463
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles4.uasset" 464
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_5.uasset" 465
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles5.uasset" 466
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_legs_6.uasset" 467
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles6.uasset" 468
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_7.uasset" 469
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles7.uasset" 470
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_8.uasset" 471
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles8.uasset" 472
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_9.uasset" 473
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Textures/Front_Legs_Labeling/Front_Legs_Muscles9.uasset" 474
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/ADOBEFANHEITISTD-BOLD.uasset" 475
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/ADOBEFANHEITISTD-BOLD_Font.uasset" 476
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/ADOBEGOTHICSTD-BOLD.uasset" 477
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/ADOBEGOTHICSTD-BOLD_Font.uasset" 478
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIB_Font.uasset" 479
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRII_Font.uasset" 480
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRILI_Font.uasset" 481
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIL_Font.uasset" 482
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/CALIBRIZ_Font.uasset" 483
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/IMPACT.uasset" 484
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Fonts/IMPACT_Font.uasset" 485
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 486
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Cylinder.uasset" 487
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Meshes/CubeMaterial.uasset" 488
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 489
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Meshes/TemplateFloor.uasset" 490
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Hand_Menu_Bovine.uasset" 491
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Hand_Menu_Master.uasset" 492
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Hand_Menu_Quiz.uasset" 493
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Loading_Screen.uasset" 494
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Loading_Screen_Widget.uasset" 495
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Open_Menu.uasset" 496
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Open_Menu_Mat.uasset" 497
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/VR_Keyboard.uasset" 498
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Dog/Hand_Menu_Dog_Quizzing.uasset" 499
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/images/HighresScreenshot00001.uasset" 500
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controller_Right_Shoulder.uasset" 501
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Brain_Normal_Map.uasset" 502
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Brain_Mat.uasset" 503
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Brain.uasset" 504
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/Front_legs.uasset" 505
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/PENNVET_brain_001ColorPerFace.uasset" 506
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/Organs/spinalcord_low_defaultMat_AO.uasset" 507
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/VR_Controllers/external_controller01_col.uasset" 508
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/VR_Controllers/blinn1SG1.uasset" 509
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/VR_Controllers/Oculus_Left_Controller.uasset" 510
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/VR_Controllers/Oculus_Right_Controller.uasset" 511
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneA/A_Base.uasset" 512
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/B_base.uasset" 513
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/B_Base_L.uasset" 514
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/B_Base_R.uasset" 515
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Costochondral_Junction.uasset" 516
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Floating_Rib.uasset" 517
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/head_of_Rib.uasset" 518
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneB/Tubercle_of_Rib.uasset" 519
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Acromion.uasset" 520
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/C_Base.uasset" 521
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Head_of_Humerus.uasset" 522
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Infraspinous_Fossa.uasset" 523
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraglenoid_Tubercle.uasset" 524
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Supraspinous_Fossa.uasset" 525
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneC/Tricipital_Line.uasset" 526
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Body_of_Radius.uasset" 527
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_10.uasset" 528
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Styloid_process_of_Ulna.uasset" 529
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_14.uasset" 530
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Body_of_Ulna.uasset" 531
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_15.uasset" 532
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Olecranon.uasset" 533
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_16.uasset" 534
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Styloid_Process_of_Radius.uasset" 535
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_21.uasset" 536
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Olecranon_Tuber.uasset" 537
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_25.uasset" 538
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/Head_of_Radius.uasset" 539
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_9.uasset" 540
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneD/D_Base.uasset" 541
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneE/D_E_Base.uasset" 542
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Wing.uasset" 543
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_1.uasset" 544
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_10.uasset" 545
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Shaft_of_Femur.uasset" 546
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_11_3.uasset" 547
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Patella.uasset" 548
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Patella_Left.uasset" 549
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_12_4.uasset" 550
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Femoral_Condyle.uasset" 551
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_14.uasset" 552
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Iliac_Shaft.uasset" 553
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_2.uasset" 554
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Head_of_Femur.uasset" 555
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_7.uasset" 556
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_7a.uasset" 557
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/Greater_Trochanter.uasset" 558
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_8.uasset" 559
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneF/F_9.uasset" 560
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_1.uasset" 561
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_12.uasset" 562
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_2.uasset" 563
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_3.uasset" 564
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_4.uasset" 565
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_5.uasset" 566
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_6.uasset" 567
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneG/G_7.uasset" 568
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_1.uasset" 569
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_14.uasset" 570
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Models/ZoneH/H_6.uasset" 571
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_1.uasset" 572
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_10.uasset" 573
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_11.uasset" 574
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_12.uasset" 575
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_13.uasset" 576
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_3.uasset" 577
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_4.uasset" 578
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_5.uasset" 579
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_legs_6.uasset" 580
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_7.uasset" 581
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Muscles/Front_Legs_9.uasset" 582
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Back_Legs_high_Mesh_polySurface55Mat.uasset" 583
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Back_Legs_low_lambert3_BaseColor.uasset" 584
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Back_Legs_low_lambert3_Normal.uasset" 585
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Back_Legs_low_lambert3_OcclusionRoughnessMetallic.uasset" 586
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Back_Legs_Mat.uasset" 587
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/lambert1.uasset" 588
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/lambert3.uasset" 589
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Back_Legs.uasset" 590
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Femur.uasset" 591
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/test_bone_1_low.uasset" 592
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Pelvis.uasset" 593
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/test_bone_2_low.uasset" 594
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/Fibula.uasset" 595
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Selection_Tests/test_bone_3_low.uasset" 596
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Vive_Controls_Mat.uasset" 597
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Controls_Mat.uasset" 598
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Controls_Mat.uasset" 599
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Highlight_Sphere_MAt.uasset" 600
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 601
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 602
+"../../../Engine/Content/BasicShapes/Cone.uasset" 603
+"../../../Engine/Content/BasicShapes/Cube.uasset" 604
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 605
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 606
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 607
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 608
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 609
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 610
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 611
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 612
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 613
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 614
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 615
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 616
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 617
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 618
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 619
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 620
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 621
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 622
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 623
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 624
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 625
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 626
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 627
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 628
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 629
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 630
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 631
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 632
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 633
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 634
+"../../../Engine/Content/EditorResources/S_Note.uasset" 635
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 636
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 637
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 638
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 639
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 640
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 641
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 642
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 643
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 644
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 645
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 646
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 647
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 648
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 649
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 650
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 651
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 652
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 653
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 654
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 655
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 656
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 657
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 658
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 659
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 660
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 661
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 662
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 663
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 664
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 665
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 666
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 667
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 668
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 669
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 670
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 671
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 672
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 673
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 674
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 675
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 676
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 677
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 678
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 679
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 680
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 681
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 682
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 683
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 684
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 685
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 686
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 687
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 688
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 689
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 690
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 691
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 692
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 693
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 694
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 695
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 696
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 697
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 698
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 699
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 700
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 701
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 702
+"../../../Engine/Content/EngineResources/Black.uasset" 703
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 704
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 705
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 706
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 707
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 708
+"../../../Engine/Content/EngineSounds/Master.uasset" 709
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 710
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 711
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 712
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 713
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 714
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 715
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 716
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 717
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 718
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 719
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 720
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 721
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 722
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 723
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 724
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 725
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 726
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 727
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 728
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 729
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 730
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 731
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 732
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 733
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 734
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 735
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 736
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 737
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 738
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 739
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 740
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 741
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 742
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 743
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 744
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 745
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 746
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 747
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 748
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 749
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 750
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 751
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 752
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 753
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 754
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 755
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 756
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 757
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 758
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 759
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 760
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 761
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 762
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 763
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 764
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 765
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 766
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Player_Character.uasset" 767
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Test_Widget/Test_Widget_1.uasset" 768
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Test_Widget/Test_HUD.uasset" 769
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VR_Gamemode.uasset" 770
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Movies/Dog_Tutorial_Video.uasset" 771
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Bovine_Anatomy_BuiltData.uasset" 772
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Menus/Tutorial/Oculus_Controls_Mat.uasset" 773
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Movies/TutorialMediaPlayer.uasset" 774
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Movies/NewMediaPlayer_Video.uasset" 775
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Movies/TutorialMaterial.uasset" 776
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/M_Highlight.uasset" 777
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Environment_Materials/Vet_VR_Ground_basecolor.uasset" 778
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Environment_Materials/Vet_VR_Ground_normal.uasset" 779
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Environment_Materials/Ground_Mat.uasset" 780
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Environment_Materials/Ground_Mat_Inst.uasset" 781
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 782
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 783
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 784
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Fade_Material.uasset" 785
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Fade_Material_Inst.uasset" 786
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Sphere.uasset" 787
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Bovine_Anatomy.umap" 788
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Dog_Anatomy_BuiltData.uasset" 789
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Dog_Anatomy.umap" 790
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Dog_Skull_Anatomy_BuiltData.uasset" 791
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Dog_Skull_Anatomy.umap" 792
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Main_Menu_BuiltData.uasset" 793
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/uSE_THE_MENU.uasset" 794
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Technical_Materials/Controls_Mat1.uasset" 795
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Main_Menu.umap" 796
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Dog_BuiltData.uasset" 797
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Front_Legs.uasset" 798
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Head.uasset" 799
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Dog/Spine.uasset" 800
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Dog.umap" 801
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Selection_Testing_BuiltData.uasset" 802
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Selection_Testing.umap" 803
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Working_Naming_System_BuiltData.uasset" 804
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Maps/Old/Working_Naming_System.umap" 805
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 806
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 807
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 808
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 809
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MF_OccludedPixels.uasset" 810
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/TeleportMCP.uasset" 811
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/M_ArcEndpoint.uasset" 812
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/M_TeleportPreviews.uasset" 813
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MI_TeleportCylinderPreview.uasset" 814
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 815
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Meshes/BeaconDirection.uasset" 816
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Meshes/SM_FatCylinder.uasset" 817
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/HMDLocomotionPawn.uasset" 818
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/HMDLocomotionMap_BuiltData.uasset" 819
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/M_BaseMaterial.uasset" 820
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MI_BaseMaterial2.uasset" 821
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MI_BaseMaterial3.uasset" 822
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/Geometry/Meshes/1M_Cube.uasset" 823
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" 824
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/PickupActorInterface.uasset" 825
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MI_SmallCubes.uasset" 826
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" 827
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_Skeleton.uasset" 828
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.uasset" 829
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.uasset" 830
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.uasset" 831
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Animations/RightGrip_BS.uasset" 832
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/GripEnum.uasset" 833
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Animations/RightHand_AnimBP.uasset" 834
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/MotionControllerHaptics.uasset" 835
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/M_SplineArcMat.uasset" 836
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/MI_ChaperoneOutline.uasset" 837
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 838
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 839
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Materials/M_HandMat.uasset" 840
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right_PhysicsAsset.uasset" 841
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.uasset" 842
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Meshes/1x1_cube.uasset" 843
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Meshes/BeamMesh.uasset" 844
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" 845
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset" 846
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset" 847
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" 848
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/StartupMap_BuiltData.uasset" 849
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Materials/GenericHMDMaterial.uasset" 850
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 851
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualReality/Meshes/GenericHMD.uasset" 852
+"../../../../../../Veterinary Virtual Augmented Reality/Working/Vet_Med_Anatomy/Content/VirtualRealityBP/Maps/StartupMap.umap" 853
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 854
+"../../../Engine/Content/Maps/Entry.umap" 855
